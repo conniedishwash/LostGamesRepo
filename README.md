@@ -8,3 +8,6 @@ open the file
 allow your browser to install apk files.
 install it.
 youre done!
+# How to find a specific game
+to find a specific game, you can find its TAG ID.
+for example, Nightmarium is 1.
